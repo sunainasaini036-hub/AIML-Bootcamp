@@ -1,4 +1,4 @@
-AIML BOOTCAMP
+# AIML BOOTCAMP
 # 👋 Hi, I'm Sunaina Saini
 
 <h1 align="center">
@@ -145,7 +145,7 @@ Hi, I'm **Sunaina Saini** 👋
 
 ---
 
-# 🤝 Connect With Me
+
 # 🤝 Connect With Me
 
 <p align="center">
