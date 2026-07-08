@@ -146,15 +146,19 @@ Hi, I'm **Sunaina Saini** 👋
 ---
 
 # 🤝 Connect With Me
+# 🤝 Connect With Me
 
 <p align="center">
 
 <a href="https://github.com/sunainasaini036-hub">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<a href="www.linkedin.com/in/sunaina-saini">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
 </p>
-
 ---
 
 <p align="center">
